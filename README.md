@@ -9,7 +9,8 @@ A dummy e-commerce frontend application. This project demonstrates a modern UI f
 - Simulated shopping cart functionality
 
 ## Screenshot
-![HomeScreen](https://github.com/user-attachments/assets/c95ed032-bef2-42ea-a2f6-805c7caf06de)
+![HomeScreen](https://github.com/user-attachments/assets/50716b93-4252-4add-bdc9-ac197b0eb2b4)
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
